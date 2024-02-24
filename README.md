@@ -1,5 +1,4 @@
-**JBL API**
-
+<h1>**JBL API**<h1>
 Used to extract player, team, and division data for JBL project
 
 /players - extracts all players 
