@@ -1,6 +1,6 @@
 **JBL API**
 
-Used to extract player,team, division data for JBL project
+Used to extract player, team, and division data for JBL project
 
 /players - extracts all players
 /teams - extracts all teams
